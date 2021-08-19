@@ -43,7 +43,7 @@ const coin = {
 
         image.style.width = "50px"
         image.style.height = "50px"
-        image.style.backgroundImage = "url('./assets/coroa.jpg')"
+        image.style.backgroundImage = "url('./coinObject/assets/coroa.jpg')"
         image.style.backgroundSize = "cover"
         img.appendChild(image)
       }
@@ -54,7 +54,7 @@ const coin = {
 
         image.style.width = "50px"
         image.style.height = "50px"
-        image.style.backgroundImage = "url('./assets/cara.jpg')"
+        image.style.backgroundImage = "url('./coinObject/assets/cara.jpg')"
         image.style.backgroundSize = "cover"
         img.appendChild(image)
       }
